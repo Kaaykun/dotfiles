@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jaris.a.fenner@gmail.com
+	name = Jaris Fenner
